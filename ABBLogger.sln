@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABBLogger", "ABBLogger\ABBLogger.csproj", "{490D8D64-09E5-4E4A-833B-975A3CDDDA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490D8D64-09E5-4E4A-833B-975A3CDDDA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490D8D64-09E5-4E4A-833B-975A3CDDDA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490D8D64-09E5-4E4A-833B-975A3CDDDA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490D8D64-09E5-4E4A-833B-975A3CDDDA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF2200D-219B-4B30-91F5-9DB7512EC435}
+	EndGlobalSection
+EndGlobal
